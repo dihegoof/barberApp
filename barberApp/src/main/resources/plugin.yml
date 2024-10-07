@@ -1,0 +1,12 @@
+name: barberapp
+version: 0.0.1-SNAPSHOT
+description: This is a simple Bukkit Plugin
+author: Dihego&Arthur
+
+main: com.br.barberapp.Main
+
+commands:
+  Hello:
+    description: Shows a hello message to the player
+    usage: |
+      /<command> shows a hello message to the player
